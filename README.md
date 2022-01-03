@@ -27,4 +27,4 @@ $ npm start
 ```
 
 ## Illustrations
-![Lotus Flower](.\Full_Stack_Course\visual_code_practice\lotus.jpg)
+![Lotus Flower](https://github.com/blackwidow28/Markdown_practice/blob/main/lotus.jpg)
