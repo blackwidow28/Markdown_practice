@@ -2,7 +2,7 @@
 
 
 ## Introduction
-This project is part of my studying with Codecademy. I am on the Full Stack Engineering program, with a view to find employment in this field in the future.
+This project is part of my study with Codecademy. I am on doing Full Stack Engineering program, with a view to find employment in this field in the future.
 
 ## Table of contents
 * [Technologies](#technologies)
@@ -27,4 +27,4 @@ $ npm start
 ```
 
 ## Illustrations
-![Lotus Flower](./Full_Stack_Course/visual_code_practice/lotus.jpg)
+![Lotus Flower](.\Full_Stack_Course\visual_code_practice\lotus.jpg)
